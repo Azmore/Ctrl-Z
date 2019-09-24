@@ -821,3 +821,90 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.24-18.32.42:658][ 12]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
 [2019.09.24-18.32.42:658][ 12]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
 [2019.09.24-18.32.44:277][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-18.36.39:750][648]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.24-18.36.39:753][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.09.24-18.36.39:753][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.24-18.36.39:753][648]PIE: New page: PIE session: RollingBPExampleMap (Sep 24, 2019, 6:36:39 AM)
+[2019.09.24-18.36.39:754][648]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.09.24-18.36.39:754][648]LogPlayLevel: Creating play world package: /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.09.24-18.36.39:769][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014074s)
+[2019.09.24-18.36.39:769][648]LogAIModule: Creating AISystem for world RollingBPExampleMap
+[2019.09.24-18.36.39:769][648]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2019.09.24-18.36.39:770][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap to /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap (0.015069s)
+[2019.09.24-18.36.39:791][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.09.24-18.36.39:805][648]LogInit: XAudio2 using 'Speakers (3- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.24-18.36.39:814][648]LogInit: FAudioDevice initialized.
+[2019.09.24-18.36.39:820][648]LogLoad: Game class is 'RollingGameMode_C'
+[2019.09.24-18.36.39:823][648]LogWorld: Bringing World /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap.RollingBPExampleMap up for play (max tick rate 0) at 2019.09.24-12.36.39
+[2019.09.24-18.36.39:823][648]LogWorld: Bringing up level for play took: 0.001977
+[2019.09.24-18.36.39:824][648]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.09.24-18.36.39:830][648]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.09.24-18.36.39:830][648]PIE: Play in editor start time for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap -0.023
+[2019.09.24-18.36.39:830][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.09.24-18.36.49:009][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.09.24-18.36.49:009][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.24-18.36.49:009][747]LogWorld: BeginTearingDown for /Game/RollingBP/Maps/UEDPIE_0_RollingBPExampleMap
+[2019.09.24-18.36.49:009][747]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.24-18.36.49:016][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.24-18.36.49:016][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap' with GeneratedClass '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap_C' with ClassGeneratedBy '/Game/RollingBP/Maps/RollingBPExampleMap.RollingBPExampleMap:PersistentLevel.RollingBPExampleMap'
+[2019.09.24-18.36.49:040][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.24-18.36.49:042][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.09.24-18.36.49:114][755]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.09.24-18.36.49:856][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateCube_Rounded_51)
+[2019.09.24-18.36.50:769][947]Cmd: DELETE
+[2019.09.24-18.36.50:769][947]Cmd: ACTOR DELETE
+[2019.09.24-18.36.50:775][947]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.24-18.36.50:795][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.09.24-18.36.50:795][947]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.09.24-18.36.54:911][441]Cmd: TRANSACTION UNDO
+[2019.09.24-18.36.54:911][441]LogEditorTransaction: Undo Delete Actors
+[2019.09.24-18.36.54:945][441]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.24-18.36.56:593][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2019.09.24-18.36.57:178][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateCube_Rounded_53)
+[2019.09.24-18.36.57:970][795]Cmd: DELETE
+[2019.09.24-18.36.57:970][795]Cmd: ACTOR DELETE
+[2019.09.24-18.36.57:972][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.24-18.36.57:992][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.09.24-18.36.57:992][795]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.09.24-18.37.35:116][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateCube_Rounded_52)
+[2019.09.24-18.37.35:806][330]Cmd: DELETE
+[2019.09.24-18.37.35:806][330]Cmd: ACTOR DELETE
+[2019.09.24-18.37.35:808][330]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.24-18.37.35:828][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.09.24-18.37.35:829][330]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2019.09.24-18.37.37:043][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-18.37.37:142][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.09.24-18.37.37:258][484]LogSavePackage: Moving '../../../../../../Users/u0954613/Desktop/EAE/Rapid_Prototyping/CTRL Z/Ctrl-Z/Ctrl_Z/Saved/RollingBPExampleMapB68C0D0340FB2DB4BF196EB48AE2E1C9.tmp' to '../../../../../../Users/u0954613/Desktop/EAE/Rapid_Prototyping/CTRL Z/Ctrl-Z/Ctrl_Z/Content/RollingBP/Maps/RollingBPExampleMap.umap'
+[2019.09.24-18.37.38:049][484]LogSavePackage: Moving '../../../../../../Users/u0954613/Desktop/EAE/Rapid_Prototyping/CTRL Z/Ctrl-Z/Ctrl_Z/Saved/RollingBPExampleMap_BuiltDataE6D03D644CC65BE0EA3387B31C3E159B.tmp' to '../../../../../../Users/u0954613/Desktop/EAE/Rapid_Prototyping/CTRL Z/Ctrl-Z/Ctrl_Z/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset'
+[2019.09.24-18.37.40:096][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.09.24-18.37.40:199][724]LogSavePackage: Moving '../../../../../../Users/u0954613/Desktop/EAE/Rapid_Prototyping/CTRL Z/Ctrl-Z/Ctrl_Z/Saved/RollingBPExampleMapB05704984A0099D3273E1CB39504AF5A.tmp' to '../../../../../../Users/u0954613/Desktop/EAE/Rapid_Prototyping/CTRL Z/Ctrl-Z/Ctrl_Z/Content/RollingBP/Maps/RollingBPExampleMap.umap'
+[2019.09.24-18.37.40:639][724]LogSavePackage: Moving '../../../../../../Users/u0954613/Desktop/EAE/Rapid_Prototyping/CTRL Z/Ctrl-Z/Ctrl_Z/Saved/RollingBPExampleMap_BuiltData9FCDC81646CEF855B9E0A687EB33109C.tmp' to '../../../../../../Users/u0954613/Desktop/EAE/Rapid_Prototyping/CTRL Z/Ctrl-Z/Ctrl_Z/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset'
+[2019.09.24-18.37.43:856][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.09.24-18.38.04:235][551]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-18.38.24:768][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-18.39.16:487][ 12]LogSlate: Window 'Save Level As' being destroyed
+[2019.09.24-18.39.16:499][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-18.39.16:540][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.09.24-18.39.16:600][ 12]LogAIModule: Creating AISystem for world Ctrl-Z
+[2019.09.24-18.39.16:611][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ctrl-Z" FILE="../../../../../../Users/u0954613/Desktop/EAE/Rapid_Prototyping/CTRL Z/Ctrl-Z/Ctrl_Z/Content/Ctrl-Z.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.24-18.39.16:637][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.09.24-18.39.16:752][ 12]LogSavePackage: Moving '../../../../../../Users/u0954613/Desktop/EAE/Rapid_Prototyping/CTRL Z/Ctrl-Z/Ctrl_Z/Saved/Ctrl-Z9E2961F9421B12C0049470B5ED0D99BC.tmp' to '../../../../../../Users/u0954613/Desktop/EAE/Rapid_Prototyping/CTRL Z/Ctrl-Z/Ctrl_Z/Content/Ctrl-Z.umap'
+[2019.09.24-18.39.16:763][ 12]LogFileHelpers: Saving map 'Ctrl-Z' took 0.271
+[2019.09.24-18.39.16:764][ 12]Cmd: MAP LOAD FILE="../../../../../../Users/u0954613/Desktop/EAE/Rapid_Prototyping/CTRL Z/Ctrl-Z/Ctrl_Z/Content/Ctrl-Z.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.24-18.39.16:767][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-18.39.16:771][ 12]LightingResults: New page: Lighting Build
+[2019.09.24-18.39.16:772][ 12]LoadErrors: New page: Loading map: Ctrl-Z.umap
+[2019.09.24-18.39.16:772][ 12]LogWorld: UWorld::CleanupWorld for RollingBPExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.24-18.39.16:775][ 12]MapCheck: New page: Map Check
+[2019.09.24-18.39.16:775][ 12]LightingResults: New page: Lighting Build
+[2019.09.24-18.39.16:800][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.09.24-18.39.16:813][ 12]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.24-18.39.16:835][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.09.24-18.39.16:850][ 12]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.24-18.39.16:850][ 12]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2019.09.24-18.39.16:851][ 12]LogFileHelpers: Loading map 'Ctrl-Z' took 0.087
+[2019.09.24-18.39.18:527][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-18.39.18:595][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ctrl-Z" FILE="../../../../../../Users/u0954613/Desktop/EAE/Rapid_Prototyping/CTRL Z/Ctrl-Z/Ctrl_Z/Content/Ctrl-Z.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.24-18.39.18:616][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.09.24-18.39.18:725][202]LogSavePackage: Moving '../../../../../../Users/u0954613/Desktop/EAE/Rapid_Prototyping/CTRL Z/Ctrl-Z/Ctrl_Z/Saved/Ctrl-Z17C4E81D4B09136A420E6496CA0FDE77.tmp' to '../../../../../../Users/u0954613/Desktop/EAE/Rapid_Prototyping/CTRL Z/Ctrl-Z/Ctrl_Z/Content/Ctrl-Z.umap'
+[2019.09.24-18.39.21:154][492]LogSlate: FSceneViewport::OnFocusLost() reason 0

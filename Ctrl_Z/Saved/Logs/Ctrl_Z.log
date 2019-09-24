@@ -565,3 +565,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.24-19.43.19:759][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
 [2019.09.24-19.43.19:889][908]LogSavePackage: Moving '../../../../../../Users/u1273021/Documents/GitHub/Ctrl-Z/Ctrl_Z/Saved/RollingBPExampleMapBB270A5A49719C46D60A4A9FB775DB30.tmp' to '../../../../../../Users/u1273021/Documents/GitHub/Ctrl-Z/Ctrl_Z/Content/RollingBP/Maps/RollingBPExampleMap.umap'
 [2019.09.24-19.43.21:290][908]LogSavePackage: Moving '../../../../../../Users/u1273021/Documents/GitHub/Ctrl-Z/Ctrl_Z/Saved/RollingBPExampleMap_BuiltData0A00F0C44DA054EFA9BB98948FD268A3.tmp' to '../../../../../../Users/u1273021/Documents/GitHub/Ctrl-Z/Ctrl_Z/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset'
+[2019.09.24-19.44.10:468][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2019.09.24-19.44.14:276][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2019.09.24-19.44.17:357][569]Cmd: TRANSACTION UNDO
+[2019.09.24-19.44.17:357][569]LogEditorTransaction: Undo Move Actors
+[2019.09.24-19.44.18:924][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.44.21:494][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2019.09.24-19.44.27:821][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.44.27:997][836]LogActorFactory: Actor Factory created Cone
+[2019.09.24-19.44.32:855][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.44.33:057][433]LogActorFactory: Actor Factory created Sphere
+[2019.09.24-19.44.33:560][493]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.44.35:980][782]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.44.35:997][782]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.44.36:014][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Aaron/Sphere" FILE="../../../../../../Users/u1273021/Documents/GitHub/Ctrl-Z/Ctrl_Z/Content/Aaron/Sphere.uasset" SILENT=true
+[2019.09.24-19.44.36:041][782]LogSavePackage: Moving '../../../../../../Users/u1273021/Documents/GitHub/Ctrl-Z/Ctrl_Z/Saved/SphereDD8F52A74C70107494A6C9943EC56E91.tmp' to '../../../../../../Users/u1273021/Documents/GitHub/Ctrl-Z/Ctrl_Z/Content/Aaron/Sphere.uasset'
+[2019.09.24-19.44.36:052][782]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.44.36:100][782]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.44.36:123][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.09.24-19.44.36:144][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.09.24-19.44.36:163][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.09.24-19.44.37:212][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.44.38:391][ 41]LogActorFactory: Actor Factory created Sphere
+[2019.09.24-19.44.38:900][ 96]LogActorFactory: Actor Factory created Sphere
+[2019.09.24-19.44.44:829][799]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.44.46:284][973]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.44.46:312][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.09.24-19.44.46:449][973]LogSavePackage: Moving '../../../../../../Users/u1273021/Documents/GitHub/Ctrl-Z/Ctrl_Z/Saved/RollingBPExampleMap14E3D05B4DEA21E6F1BA0AA883452325.tmp' to '../../../../../../Users/u1273021/Documents/GitHub/Ctrl-Z/Ctrl_Z/Content/RollingBP/Maps/RollingBPExampleMap.umap'
+[2019.09.24-19.44.47:498][973]LogSavePackage: Moving '../../../../../../Users/u1273021/Documents/GitHub/Ctrl-Z/Ctrl_Z/Saved/RollingBPExampleMap_BuiltDataDE2898BA4344CD991E82FF9C898CD565.tmp' to '../../../../../../Users/u1273021/Documents/GitHub/Ctrl-Z/Ctrl_Z/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset'
+[2019.09.24-19.44.49:671][222]LogSlate: FSceneViewport::OnFocusLost() reason 0

@@ -546,3 +546,56 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.24-19.30.13:774][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2019.09.24-19.30.13:946][808]LogSavePackage: Moving '../../../../../../Users/u1274540/Desktop/Prototype 3/Ctrl-Z/Ctrl_Z/Saved/RollingBPExampleMap9DE3C4D347E7DDB16FF1EDB89BA36C9C.tmp' to '../../../../../../Users/u1274540/Desktop/Prototype 3/Ctrl-Z/Ctrl_Z/Content/RollingBP/Maps/RollingBPExampleMap.umap'
 [2019.09.24-19.30.15:663][808]LogSavePackage: Moving '../../../../../../Users/u1274540/Desktop/Prototype 3/Ctrl-Z/Ctrl_Z/Saved/RollingBPExampleMap_BuiltDataD9B168164FE77653C814D78D3A720035.tmp' to '../../../../../../Users/u1274540/Desktop/Prototype 3/Ctrl-Z/Ctrl_Z/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset'
+[2019.09.24-19.36.49:548][725]LogHttp: Warning: 0000029029200CC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFA86ECB1-4FBB-2682-51E4-2BBDB3EEEEE9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=99989d024bbac1737c69ed8ccf556a62%7C75ea79d2e067464392479f4cf6c12e58%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.24-19.36.49:548][725]LogHttp: Warning: 0000029029200CC0: request failed, libcurl error: 0 (No error)
+[2019.09.24-19.36.49:548][725]LogHttp: Warning: 0000029029200CC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2900da17f70 [can pipeline])
+[2019.09.24-19.36.49:548][725]LogHttp: Warning: 0000029029200CC0: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2019.09.24-19.36.49:548][725]LogHttp: Warning: 0000029029200CC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.174.205.197) port 443 (#2))
+[2019.09.24-19.36.49:548][725]LogHttp: Warning: 0000029029200CC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.24-19.36.49:548][725]LogHttp: Warning: 0000029029200CC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.24-19.36.49:548][725]LogHttp: Warning: 0000029029200CC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.24-19.36.49:548][725]LogHttp: Warning: 0000029029200CC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.24-19.36.49:548][725]LogHttp: Warning: 0000029029200CC0: libcurl info message cache 7 (Closing connection 2)
+[2019.09.24-19.36.49:548][725]LogHttp: Warning: 0000029029200CC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.24-19.36.49:881][726]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFA86ECB1-4FBB-2682-51E4-2BBDB3EEEEE9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=99989d024bbac1737c69ed8ccf556a62%7C75ea79d2e067464392479f4cf6c12e58%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.24-19.42.49:675][805]LogHttp: Warning: 0000029029200B80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFA86ECB1-4FBB-2682-51E4-2BBDB3EEEEE9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=99989d024bbac1737c69ed8ccf556a62%7C75ea79d2e067464392479f4cf6c12e58%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.24-19.42.49:675][805]LogHttp: Warning: 0000029029200B80: request failed, libcurl error: 0 (No error)
+[2019.09.24-19.42.49:675][805]LogHttp: Warning: 0000029029200B80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2900da17f70 [can pipeline])
+[2019.09.24-19.42.49:675][805]LogHttp: Warning: 0000029029200B80: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2019.09.24-19.42.49:675][805]LogHttp: Warning: 0000029029200B80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.87.18.159) port 443 (#4))
+[2019.09.24-19.42.49:675][805]LogHttp: Warning: 0000029029200B80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.24-19.42.49:675][805]LogHttp: Warning: 0000029029200B80: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.24-19.42.49:675][805]LogHttp: Warning: 0000029029200B80: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.24-19.42.49:675][805]LogHttp: Warning: 0000029029200B80: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.24-19.42.49:675][805]LogHttp: Warning: 0000029029200B80: libcurl info message cache 7 (Closing connection 4)
+[2019.09.24-19.42.49:675][805]LogHttp: Warning: 0000029029200B80: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.24-19.42.50:008][806]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFA86ECB1-4FBB-2682-51E4-2BBDB3EEEEE9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=99989d024bbac1737c69ed8ccf556a62%7C75ea79d2e067464392479f4cf6c12e58%7Cc30898b6-1f93-45d1-9f4a-a4071943a649&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.24-19.45.57:151][895]LogActorFactory: Actor Factory created Cube
+[2019.09.24-19.45.57:540][937]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.45.59:893][218]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.45.59:935][218]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.45.59:957][218]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.45.59:977][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/whitey/Cube" FILE="../../../../../../Users/u1274540/Desktop/Prototype 3/Ctrl-Z/Ctrl_Z/Content/whitey/Cube.uasset" SILENT=true
+[2019.09.24-19.45.59:998][218]LogSavePackage: Moving '../../../../../../Users/u1274540/Desktop/Prototype 3/Ctrl-Z/Ctrl_Z/Saved/Cube368AA7FA4B3768E8792691BFF6748C12.tmp' to '../../../../../../Users/u1274540/Desktop/Prototype 3/Ctrl-Z/Ctrl_Z/Content/whitey/Cube.uasset'
+[2019.09.24-19.46.00:013][218]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.46.00:073][218]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.46.00:100][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.09.24-19.46.00:125][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.09.24-19.46.00:146][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.09.24-19.46.00:151][218]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.46.00:192][218]LogSavePackage: Moving '../../../../../../Users/u1274540/Desktop/Prototype 3/Ctrl-Z/Ctrl_Z/Saved/IWBE_Blutility7EC23E164C4BA546AAEF29B251BC4653.tmp' to '../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset'
+[2019.09.24-19.46.00:226][218]MapCheck: Warning: Default__IWBE_Blutility_C /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.Default__IWBE_Blutility_C : Obsolete and must be removed! (Class is deprecated) 
+[2019.09.24-19.46.00:226][218]AssetCheck: Error: Default__IWBE_Blutility_C is not valid. See the MapCheck log messages for details.
+[2019.09.24-19.46.00:226][218]AssetCheck: Error: /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility contains invalid data.
+[2019.09.24-19.46.00:226][218]AssetCheck: Error: Data validation FAILED. Files Checked: 2, Passed: 0, Failed: 1, Skipped: 0, Unable to validate: 1
+[2019.09.24-19.46.00:228][218]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.46.11:460][548]LogSlate: Window 'Message Log' being destroyed
+[2019.09.24-19.46.11:466][548]LogSlate: Window 'Message Log' being destroyed
+[2019.09.24-19.46.12:729][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.46.12:873][713]LogActorFactory: Actor Factory created Cube
+[2019.09.24-19.46.13:165][745]LogActorFactory: Actor Factory created Cube
+[2019.09.24-19.46.19:811][518]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.46.21:501][719]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-19.46.21:529][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.09.24-19.46.21:689][719]LogSavePackage: Moving '../../../../../../Users/u1274540/Desktop/Prototype 3/Ctrl-Z/Ctrl_Z/Saved/RollingBPExampleMapB15DDC454EA18EAAF82CDDBA3435A271.tmp' to '../../../../../../Users/u1274540/Desktop/Prototype 3/Ctrl-Z/Ctrl_Z/Content/RollingBP/Maps/RollingBPExampleMap.umap'
+[2019.09.24-19.46.22:911][719]LogSavePackage: Moving '../../../../../../Users/u1274540/Desktop/Prototype 3/Ctrl-Z/Ctrl_Z/Saved/RollingBPExampleMap_BuiltDataEA74EB4749A801B6EC24958C474E71F6.tmp' to '../../../../../../Users/u1274540/Desktop/Prototype 3/Ctrl-Z/Ctrl_Z/Content/RollingBP/Maps/RollingBPExampleMap_BuiltData.uasset'
